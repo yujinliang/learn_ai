@@ -1,7 +1,7 @@
-# 								AI 优质学习资料收集
+# 								AI 学习随笔
 
-> `https://pan.baidu.com/s/1jH0UfaA`
->
-> `http://neuralnetworksanddeeplearning.com/index.html`
->
-> `http://www.ruanyifeng.com/blog/2017/07/neural-network.html`
+>* 作者: yujinliang
+>* 邮箱: 285779289@qq.com
+>* 微信： yujinliang-pure
+>* csdn: https://blog.csdn.net/htyu_0203_39
+>* zhihu: https://www.zhihu.com/people/yujinliang-pure
